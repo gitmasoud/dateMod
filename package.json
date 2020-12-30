@@ -1,0 +1,19 @@
+{
+  "name": "datemod",
+  "version": "1.0.0",
+  "description": "Get todays today in long and locale format",
+  "main": "controller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitmasoud/dateMod.git"
+  },
+  "author": "s a masoud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitmasoud/dateMod/issues"
+  },
+  "homepage": "https://github.com/gitmasoud/dateMod#readme"
+}
